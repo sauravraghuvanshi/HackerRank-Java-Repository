@@ -1,3 +1,2 @@
-# HackerRank_Java
-Hello everyone!
-In this repository i give solutions of HackerRank Java problems
+# HackerRank Problem of Java
+This repository contain solution of HackerRank problem of Java section.
